@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <br>
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 Skills
+## 🌱 My Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=c,cpp,cs,python,go" />
 <br>
 
