@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **akira1961/akira1961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
