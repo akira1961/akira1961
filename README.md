@@ -5,6 +5,19 @@
 
 Here are some ideas to get you started:
 
+My name is Akira MORI.
+
+I've been making various programs since I made a calculation simulation of falling objects (using assembler) on a Z80 microcomputer in 1982.
+
+Recently, I've been making API extension programs for OPU UI (using C++) 
+and program generation programs for NC (using C#).
+
+I'm good at making simple on-premise tools from simple handwritten specifications.
+
+"Maximum efficiency with minimum code"
+
+"I'm willing to endure any hardship to make things easier"
+
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
